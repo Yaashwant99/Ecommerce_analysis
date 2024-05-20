@@ -4,4 +4,8 @@ This project is designed to analyze sales data stored in a MySQL database. It ai
 
 ## Objectives:-
 * ### Data Retrieval:
-  Execute SQL queries to extract relevant data from the MySQL database
+  Execute SQL queries to extract relevant data from the MySQL database.
+* ### Visualization:
+  Create visual representations of the data to facilitate better understanding and communication of the insights.
+* ### Data Analysis:
+  Analyze the extracted data to identify trends, patterns, and other related queries.
