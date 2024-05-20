@@ -34,12 +34,12 @@ This project is designed to analyze sales data stored in a MySQL database. It ai
 * Required Python packages: **matplotlib**, **pandas**, **mysql-connector-python**, **VS Code**.
 
 
-## Additional Resources
+## Additional Resources:-
 * [MySQL Documentation](https://dev.mysql.com/doc/)
 * [Pandas Documentation](https://pandas.pydata.org/docs/)
 * [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
 
-## Sample Plots
+## Sample Plots:-
 ### Total Sales by Customer
 ![42c7c6d2-2b88-49a7-808d-5a99f8b6bde8](https://github.com/Yaashwant99/Ecommerce_analysis/assets/141301524/93b7c844-31bb-4beb-818d-51169557e6d4)
 
