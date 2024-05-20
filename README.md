@@ -39,8 +39,21 @@ This project is designed to analyze sales data stored in a MySQL database. It ai
 * [Pandas Documentation](https://pandas.pydata.org/docs/)
 * [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
 
+## Sample Plots
+### Total Sales by Customer
+![42c7c6d2-2b88-49a7-808d-5a99f8b6bde8](https://github.com/Yaashwant99/Ecommerce_analysis/assets/141301524/93b7c844-31bb-4beb-818d-51169557e6d4)
 
-   
+### Total Revenue by State
+![ca2439fe-c431-4771-8341-34194512aec0](https://github.com/Yaashwant99/Ecommerce_analysis/assets/141301524/a75c67d6-3743-4d3f-95d6-72996a4b19bc)
+
+### Average Selling Price of Top 3 Subcategories
+![bed7e9b6-6dfa-4b2d-b665-37dcc56b7994](https://github.com/Yaashwant99/Ecommerce_analysis/assets/141301524/7314cf22-5ac5-45a6-a855-a19321bd0b57)
+
+
+## Contact:-
+For any queries or further information related to this project, please contact:
+### Name- YASHWANT SHARMA
+### Email- syashwant91@gmail.com
 
 
 
