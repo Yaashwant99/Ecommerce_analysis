@@ -34,6 +34,10 @@ This project is designed to analyze sales data stored in a MySQL database. It ai
 * Required Python packages: **matplotlib**, **pandas**, **mysql-connector-python**, **VS Code**.
 
 
+## Additional Resources
+* [MySQL Documentation](https://dev.mysql.com/doc/)
+* [Pandas Documentation](https://pandas.pydata.org/docs/)
+* [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
 
 
    
