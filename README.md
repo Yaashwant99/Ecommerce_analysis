@@ -22,21 +22,11 @@ This project is designed to analyze sales data stored in a MySQL database. It ai
 3. ### Data Visualization
    Using Matplotlib, the project creates various plots to visualize the data like:
    * #### Bar Graph
-  ![77ef8ed9-7cdf-425b-b774-aeca8cd06152](https://github.com/Yaashwant99/Ecommerce_analysis/assets/141301524/ee0a36bd-e063-4d78-9db9-967c614c3cf2)
+![e3f51ce2-f0e1-4950-92d5-0971a791e877](https://github.com/Yaashwant99/Ecommerce_analysis/assets/141301524/a997e801-79d3-4bdc-a082-0faa3664383a)
 
+   * #### Line Graph
+ ![77ef8ed9-7cdf-425b-b774-aeca8cd06152](https://github.com/Yaashwant99/Ecommerce_analysis/assets/141301524/ee0a36bd-e063-4d78-9db9-967c614c3cf2)
 
-
-  
-
-
-
-
-
-
-
-
-
-   * Line Graph
 
 ## Prerequisites:-
 * MySQL database with the required tables and data.
